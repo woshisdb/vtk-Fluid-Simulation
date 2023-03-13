@@ -1,0 +1,142 @@
+﻿  water.cxx
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkActor * __cdecl vtkActor::New(void)" (__imp_?New@vtkActor@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkCamera * __cdecl vtkCamera::New(void)" (__imp_?New@vtkCamera@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkCamera::SetPosition(double,double,double)" (__imp_?SetPosition@vtkCamera@@QAEXNNN@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkCamera::SetFocalPoint(double,double,double)" (__imp_?SetFocalPoint@vtkCamera@@QAEXNNN@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkDataArray::InsertTuple1(__int64,double)" (__imp_?InsertTuple1@vtkDataArray@@QAEX_JN@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall vtkDebugLeaksManager::vtkDebugLeaksManager(void)" (__imp_??0vtkDebugLeaksManager@@QAE@XZ)，该符号在函数 "void __cdecl `dynamic initializer for 'vtkDebugLeaksManagerInstance''(void)" (??__EvtkDebugLeaksManagerInstance@@YAXXZ) 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall vtkDebugLeaksManager::~vtkDebugLeaksManager(void)" (__imp_??1vtkDebugLeaksManager@@QAE@XZ)，该符号在函数 "void __cdecl `dynamic atexit destructor for 'vtkDebugLeaksManagerInstance''(void)" (??__FvtkDebugLeaksManagerInstance@@YAXXZ) 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall vtkObjectFactoryRegistryCleanup::vtkObjectFactoryRegistryCleanup(void)" (__imp_??0vtkObjectFactoryRegistryCleanup@@QAE@XZ)，该符号在函数 "void __cdecl `dynamic initializer for 'vtkObjectFactoryRegistryCleanupInstance''(void)" (??__EvtkObjectFactoryRegistryCleanupInstance@@YAXXZ) 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __thiscall vtkObjectFactoryRegistryCleanup::~vtkObjectFactoryRegistryCleanup(void)" (__imp_??1vtkObjectFactoryRegistryCleanup@@QAE@XZ)，该符号在函数 "void __cdecl `dynamic atexit destructor for 'vtkObjectFactoryRegistryCleanupInstance''(void)" (??__FvtkObjectFactoryRegistryCleanupInstance@@YAXXZ) 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkCellArray * __cdecl vtkCellArray::New(void)" (__imp_?New@vtkCellArray@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: __int64 __thiscall vtkCellArray::InsertNextCell(__int64,__int64 const *)" (__imp_?InsertNextCell@vtkCellArray@@QAE_J_JPB_J@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkFloatArray * __cdecl vtkFloatArray::New(void)" (__imp_?New@vtkFloatArray@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: int __thiscall vtkDataSetAttributes::SetScalars(class vtkDataArray *)" (__imp_?SetScalars@vtkDataSetAttributes@@QAEHPAVvtkDataArray@@@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkPoints * __cdecl vtkPoints::New(void)" (__imp_?New@vtkPoints@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkPoints::InsertPoint(__int64,float const * const)" (__imp_?InsertPoint@vtkPoints@@QAEX_JQBM@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class vtkPointData * __thiscall vtkDataSet::GetPointData(void)" (__imp_?GetPointData@vtkDataSet@@QAEPAVvtkPointData@@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkPolyData * __cdecl vtkPolyData::New(void)" (__imp_?New@vtkPolyData@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkPolyData::SetPolys(class vtkCellArray *)" (__imp_?SetPolys@vtkPolyData@@QAEXPAVvtkCellArray@@@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkPolyDataMapper * __cdecl vtkPolyDataMapper::New(void)" (__imp_?New@vtkPolyDataMapper@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkPolyDataMapper::SetInputData(class vtkPolyData *)" (__imp_?SetInputData@vtkPolyDataMapper@@QAEXPAVvtkPolyData@@@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkRenderWindow * __cdecl vtkRenderWindow::New(void)" (__imp_?New@vtkRenderWindow@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkRenderWindowInteractor * __cdecl vtkRenderWindowInteractor::New(void)" (__imp_?New@vtkRenderWindowInteractor@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkRenderWindowInteractor::SetRenderWindow(class vtkRenderWindow *)" (__imp_?SetRenderWindow@vtkRenderWindowInteractor@@QAEXPAVvtkRenderWindow@@@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: static class vtkRenderer * __cdecl vtkRenderer::New(void)" (__imp_?New@vtkRenderer@@SAPAV1@XZ)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkRenderer::AddActor(class vtkProp *)" (__imp_?AddActor@vtkRenderer@@QAEXPAVvtkProp@@@Z)，该符号在函数 _main 中被引用
+water.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: void __thiscall vtkRenderer::SetActiveCamera(class vtkCamera *)" (__imp_?SetActiveCamera@vtkRenderer@@QAEXPAVvtkCamera@@@Z)，该符号在函数 _main 中被引用
+D:\vtk\prefix\lib\vtkalglib-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkChartsCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonColor-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonComputationalGeometry-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonDataModel-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonExecutionModel-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonMath-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonMisc-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonSystem-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkCommonTransforms-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkDICOMParser-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkDomainsChemistry-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkDomainsChemistryOpenGL2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkexoIIc-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkexpat-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersAMR-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersExtraction-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersFlowPaths-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersGeneral-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersGeneric-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersGeometry-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersHybrid-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersHyperTree-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersImaging-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersModeling-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersParallel-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersParallelImaging-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersPoints-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersProgrammable-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersSelection-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersSMP-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersSources-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersStatistics-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersTexture-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkFiltersVerdict-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkfreetype-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkGeovisCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkgl2ps-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkglew-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkhdf5-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkhdf5_hl-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingColor-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingFourier-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingGeneral-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingHybrid-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingMath-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingMorphological-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingSources-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingStatistics-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkImagingStencil-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkInfovisCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkInfovisLayout-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkInteractionImage-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkInteractionStyle-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkInteractionWidgets-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOAMR-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOEnSight-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOExodus-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOExport-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOGeometry-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOImage-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOImport-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOInfovis-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOLegacy-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOLSDyna-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOMINC-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOMovie-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIONetCDF-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOParallel-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOParallelXML-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOPLY-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOSQL-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOTecplotTable-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOVideo-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOXML-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkIOXMLParser-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkjpeg-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkjsoncpp-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtklibxml2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkLocalExample-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkmetaio-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkNetCDF-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkNetCDF_cxx-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkoggtheora-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkParallelCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkpng-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkproj4-7.1_d.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingAnnotation-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingContext2D-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingContextOpenGL2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingFreeType-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingGL2PSOpenGL2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingImage-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingLabel-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingLOD-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingOpenGL2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingVolume-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkRenderingVolumeOpenGL2-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtksqlite-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtksys-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkTestingGenericBridge-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkTestingIOSQL-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkTestingRendering-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtktiff-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkverdict-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkViewsContext2D-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkViewsCore-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkViewsInfovis-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\prefix\lib\vtkzlib-7.1.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+D:\vtk\projects\water\Debug\water.exe : fatal error LNK1120: 26 个无法解析的外部命令
